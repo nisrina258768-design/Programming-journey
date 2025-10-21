@@ -1,0 +1,7 @@
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\bin\Debug\projek 5.2.exe.config
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\bin\Debug\projek 5.2.exe
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\bin\Debug\projek 5.2.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\obj\Debug\projek 5.2.csproj.AssemblyReference.cache
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\obj\Debug\projek 5.2.csproj.CoreCompileInputs.cache
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\obj\Debug\projek 5.2.exe
+D:\NISRINA LUTFIYA - X PPLG 2\projek 5.2\projek 5.2\obj\Debug\projek 5.2.pdb
