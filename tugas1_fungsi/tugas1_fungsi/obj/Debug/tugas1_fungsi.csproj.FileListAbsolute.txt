@@ -1,0 +1,7 @@
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\bin\Debug\tugas1_fungsi.exe.config
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\bin\Debug\tugas1_fungsi.exe
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\bin\Debug\tugas1_fungsi.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\obj\Debug\tugas1_fungsi.csproj.AssemblyReference.cache
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\obj\Debug\tugas1_fungsi.csproj.CoreCompileInputs.cache
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\obj\Debug\tugas1_fungsi.exe
+D:\NISRINA LUTFIYA - X PPLG 2\tugas1_fungsi\tugas1_fungsi\obj\Debug\tugas1_fungsi.pdb

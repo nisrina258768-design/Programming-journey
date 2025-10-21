@@ -1,0 +1,7 @@
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.exe.config
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.exe
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.csproj.AssemblyReference.cache
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.csproj.CoreCompileInputs.cache
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.exe
+D:\NISRINA LUTFIYA - X PPLG 2\fungsi_hitung_luas\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.pdb

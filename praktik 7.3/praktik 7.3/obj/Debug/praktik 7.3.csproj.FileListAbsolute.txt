@@ -1,0 +1,8 @@
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.exe.config
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.exe
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.csproj.AssemblyReference.cache
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.csproj.CoreCompileInputs.cache
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.exe
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.exe.config

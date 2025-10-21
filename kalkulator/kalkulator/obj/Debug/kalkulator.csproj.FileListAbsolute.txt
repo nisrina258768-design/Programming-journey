@@ -1,0 +1,8 @@
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+D:\NISRINA LUTFIYA - X PPLG 2\kalkulator\kalkulator\obj\Debug\kalkulator.exe.config
