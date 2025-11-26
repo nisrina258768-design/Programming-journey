@@ -1,0 +1,11 @@
+C:\C#\Projek Akhir\Projek Akhir\bin\Debug\Projek Akhir.exe.config
+C:\C#\Projek Akhir\Projek Akhir\bin\Debug\Projek Akhir.exe
+C:\C#\Projek Akhir\Projek Akhir\bin\Debug\Projek Akhir.pdb
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.csproj.AssemblyReference.cache
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek_Akhir.Form1.resources
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek_Akhir.Properties.Resources.resources
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.csproj.GenerateResource.cache
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.csproj.CoreCompileInputs.cache
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.exe
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.pdb
+C:\C#\Projek Akhir\Projek Akhir\obj\Debug\Projek Akhir.exe.config
