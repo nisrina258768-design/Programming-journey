@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat formulir pendaftaran calon siswa baru smk</title>
+</head>
+<body>
+    <h2>FORMULIR PENDAFTARAN CALON SISWA BARU SMK</h2>
+    <form action="/submit" method="post">
+    <fieldset>
+        <legend>BIODATA SISWA</legend>
+        <table>
+        <tr>
+        <td>No. UN SMP/MTs/Sederajat</td>
+        <td><input type="text" name="no_un" required></td>
+        </tr>
+        <tr>
+        <td>Nama Lengkap</td>
+        <td><input type="text" name="nama_lengkap" required></td>
+        </tr>
+        <tr>
+        <td>Jenis Kelamin</td>
+        <td>
+        <label for="lakilaki">
+        <input type="radio" id="lakilaki" name="lakilaki" value="lakilaki">
+        Laki laki
+        </label><br>
+        <label for="perempuan">
+        <input type="radio" id="perempuan" name="perempuan" value="perempuan">
+        Perempuan
+        </label><br>
+        </td>
+        </tr>
+        <tr>
+        <td>Nama Orangtua/Wali</td>
+        <td><input type="text" name="nama_ortu" style="width :300px;" required></td>
+        </tr>
+        <tr>
+        <td>Alamat (sesuai KK/KTP/SuratKet)<br>
+            (Domisilmin.6 bln Ortu/Walimurid calon siswa)</td>
+        <td><textarea id="alamat" name="alamat" style="width :300px;"></textarea></td>
+        </tr>
+        <tr>
+        <td>Kota/Kabupaten</td>
+        <td><input type="text" name="kota_kab" style="width :300px;" required></td>
+        </tr>
+        <tr>
+        <td>Asal Sekolah</td>
+        <td><input type="text" name="asal_sekolah" style="width :300px;" required></td>
+        </tr>
+        <tr>
+        <td>Agama</td>
+        <td>
+        <select>
+        <option value="islam">Islam</option>
+        <option value="kristen">Kristen</option>
+        <option value="katolik">Katolik</option>
+        <option value="hindu">Hindu</option>
+        <option value="budha">Budha</option>
+        <option value="konghucu">Konghucu</option>
+        </select>
+        </td>
+        </tr>
+        </table>
+    </fieldset>
+    <br>
+    <fieldset>
+    <legend>PENILAIAN</legend>
+    <table>
+    <tr>
+    <td>NILAI UJIAN NASIONAL (NUN)</td>
+    </tr>
+    <tr>
+    <td>1.Matematika</td>
+    <td><input type="text" name="matematika" style="width :80px;" required></td>
+    </tr>
+    <tr>
+    <td>2.Bahasa Indonesia</td>
+    <td><input type="text" name="bhsindonesia" style="width :80px;" required></td>
+    </tr>
+    <tr>
+    <td>3.Bahasa Inggris</td>
+    <td><input type="text" name="bhsinggris" style="width :80px;" required></td>
+    </tr>
+    <tr>
+    <td>4.Ilmu Pengetahuan Alam(IPA)</td>
+    <td><input type="text" name="ipa" style="width :80px;" required></td>
+    <td>Jumlah NUN</td>
+    <td><input type="text" name="nun" style="width :80px;" required></td>
+    </tr>
+    <tr>
+    <td colspan="2">NILAI BONUS PRESTASI (NBP)</td>
+    <td></td>
+    <td><input type="text" name="nbp" style="width :80px;" required></td>
+    </tr>
+    <tr>
+    <td colspan="3">JUMLAH TOTAL NILAI AKHIR PPDB (Rumus:NUN + NBP)</td>
+    <td><input type="text" name="nilaiakhir" style="width :80px;" required></td>
+    </tr>
+    </table>
+    </fieldset>
+    <br>
+    <fieldset>
+    <legend>PILIHAN SEKOLAH:</legend>
+    <table>
+    <tr>
+    <td>1.SMK</td>
+    <td><input type="text" name="smk" required></td>
+    </tr>
+    <tr>
+    <td>a. Pilihan 1</td>
+    <td>
+        <select>
+        <option selected disabled></option>
+        <option value="pplg">Pengembangan Perangkat Lunak dan Gim</option>
+        <option value="te">Teknik Elektronika</option>
+        <option value="tkl">Teknik Ketenagalistrikan</option>
+        <option value="tm">Teknik Mesin</option>
+        <option value="to">Teknik Otomotif</option>
+        </select>
+    </td>
+    </tr>
+    <tr>
+    <td>b. Pilihan 2</td>
+    <td>
+        <select>
+        <option selected disabled></option>
+        <option value="rpl">Rekayasa Perangkat Lunak</option>
+        <option value="tav">Teknik Audio Video</option>
+        <option value="tei">Teknik Elektronika Industri</option>
+        <option value="tp">Teknik Pemesinan</option>
+        <option value="tsm">Teknik Sepeda Motor</option>
+        <option value="tkr">Teknik Kendaraan Ringan</option>
+        <option value="titl">Teknik Instalasi Ketenagalistrikan</option>
+        </select>
+    </td>
+    </tr>
+    <tr>
+    <td>2.SMK</td>
+    <td><input type="text" name="smk" required></td>
+    </tr>
+    <tr>
+    <td >a. Pilihan 1</td>
+    <td>
+        <select>
+        <option selected disabled></option>
+        <option value="tjkt">Teknik Jaringan Komputer dan Telekomunikasi</option>
+        <option value="dkv">Desain Komunikasi Visual</option>
+        <option value="tb">Tata Busana</option>
+        <option value="akl">Akuntansi dan Keuangan Lembaga</option>
+        <option value="pm">Pemasaran</option>
+        <option value="to">Teknik Otomotif</option>
+        </select>
+    </td>
+    </tr>
+    <tr>
+    <td>b. Pilihan 2</td>
+    <td>
+        <select>
+        <option selected disabled></option>
+        <option value="tjkt">Teknik Jaringan Komputer dan Telekomunikasi</option>
+        <option value="dkv">Desain Komunikasi Visual</option>
+        <option value="akl">Akuntansi dan Keuangan Lembaga</option>
+        <option value="pm">Pemasaran</option>
+        <option value="mplb">Manajemen Perkantoran dan Layanan Bisnis</option>
+        </select>
+    </table>
+    </fieldset>
+    </form>
+</body>
+</html>
