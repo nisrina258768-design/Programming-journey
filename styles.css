@@ -1,0 +1,17 @@
+/* Styles for the external CSS file */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    margin: 1;
+    padding: 1;
+}
+h1 {
+    color:blue;
+    text-align: left;
+    margin-top: 25px;
+}
+p {
+    color:blueviolet;
+    line-height: 1.9;
+    padding:0 px;
+}

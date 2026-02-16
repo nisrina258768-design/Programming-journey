@@ -1,0 +1,37 @@
+/* Color for external CSS file */
+.warna1 {
+    background-color: lightpink;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna2 {
+    background-color: #D8BFD8;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna3 {
+    background-color: rgb(152, 162, 253);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna4 {
+    background-color: rgba(200, 0, 0, 0.705);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna5 {
+    background-color: hsl(155, 50%, 50%);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna6 {
+    background-color: hsla(61, 83%, 65%, 0.7);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
