@@ -1,0 +1,9 @@
+/* Styles for the external CSS file */
+.menu {
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+    padding: 10px;
+    background-color: lightskyblue;
+    text-align: center;
+}
