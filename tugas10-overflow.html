@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Overflow</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        nav a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px;
+            background-color: lightblue;
+            text-decoration: none;
+        }
+        img {
+            width: 200px;
+            display: block;
+            margin-bottom: 10px;
+        }
+        article {
+            background-color: lightskyblue;
+            width: 200px;
+            height: 65px;
+            border: 1px solid black;
+            margin-bottom: 20px;
+        }
+        .visible {
+            overflow: visible;
+        }
+        .hidden {
+            overflow: hidden;
+        }
+        .scroll {
+            overflow: scroll;
+        }
+        .auto {
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Produk Saya</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Product</a>
+        <a href="#">Contact</a>
+    </nav>
+    <h2>Milk Cleanser</h2>
+    <img src="cleanser g2g.jpeg">
+    <article class="visible">
+        Milk Cleanser ini berfungsi untuk membersihkan wajah dari kotoran, minyak, dan sisa makwup secara
+        lembut tanpa membuat kulit menjadi kering. Kandungannya ringan dan cocok untuk berbagai jenis
+        kulit, termasuk kulit sensitif, sehingga aman digunakan setiap hari. Dengan pemakaian rutin,
+        kulit akan terasa lebih bersih, segar, lembut, dan terawat dengan baik sepanjang waktu.
+    </article>
+    <h2>Body Serum</h2>
+    <img src="body serum g2g.jpeg">
+    <article class="hidden">
+        Body serum ini membantu melembapkan dan mencerahkan kulit tubuh secara merata dengan kandungan vitamin
+        dan nutrisi penting yang baik untuk kulit. Penggunaan rutin dapat membuat kulit terasa lebih halus,
+        lembut, dan tidak kusam. Produk ini juga membantu menjaga kelembapan kulit sepanjang hari
+        serta melindungi dari efek buruk sinar matahari yang dapat merusak kesehatan kulit.
+    </article>
+    <h2>Lip Serum</h2>
+    <img src="lip serum g2g.jpeg">
+    <article class="scroll">
+        Lip serum ini dirancang khusus untuk menjaga kelembapan bibir agar tetap lembut dan tidak pecah
+        pecah. Dengan penggunaan rutin setiap hari, bibir akan terlihat lebih sehat, halus, dan 
+        memiliki warna alami yang menarik. Produk ini juga memberikan perlindungan tambahan 
+        sehingga bibir tetap nyaman meskipun berada di cuaca panas, dingin, atau kondisi
+        lingkungan yang kering.
+    </article>
+    <h2>Tone Up Cream</h2>
+    <img src="tone up g2g.jpeg">
+    <article class="auto">
+        Tone up cream ini memberikan efek cerah instan pada kulit wajah sehingga tampak lebih 
+        segar dan bersih setiap saat. Teksturnya ringan, mudah meresap, dan tidak lengket saat
+        digunakan setiap hari. Produk ini cocok sebagai pelengkap perawatan kulit karena 
+        membantu meningkatkan tampilan wajah agar terlihat lebih sehat, cerah, halus, dan bercahaya
+        secara alami dalam penggunaan rutin.
+    </article>
+</body>
+</html>
